@@ -1,7 +1,5 @@
-# University-Management
-
+<h1>NOT</h1>
 <html>
-  <h1>NOT</h1>
   <ul>
     <li><p>Programin duzgun calismasi icin LoginGUI, ManagerLoginGUI ve ManagerSettingsGUI dosyalari icerisindeki imagesPath niteligini degistirmelisiniz!</p></li>
     <li><p>Proje dosyasi icerisindeki mysql kodlarinin bulundugu zipi cikartip mysql editorde bu kodlari calistirarak ilgili tablolari kurmalisiniz!</p></li>
