@@ -1,9 +1,7 @@
 # University-Management
-![Screenshot_2](https://user-images.githubusercontent.com/78226423/151869956-804bdbe2-4ff3-4178-862c-d4342d152b25.png)
-![Screenshot_1](https://user-images.githubusercontent.com/78226423/151420908-edd3a10e-81c2-4894-ab99-f4e721e6dd0c.png)
 
 <html>
-  <h1>Başlamadan Önce</h1>
+  <h1>NOT</h1>
   <ul>
     <li><p>Programin duzgun calismasi icin LoginGUI, ManagerLoginGUI ve ManagerSettingsGUI dosyalari icerisindeki imagesPath niteligini degistirmelisiniz!</p></li>
     <li><p>Proje dosyasi icerisindeki mysql kodlarinin bulundugu zipi cikartip mysql editorde bu kodlari calistirarak ilgili tablolari kurmalisiniz!</p></li>
@@ -17,7 +15,7 @@
   <br>
   <br>
   <h2>Eğitmen Yönetimi</h2>
-  <img src="https://user-images.githubusercontent.com/78226423/154354208-20fd92f9-bfed-4734-86ec-5681322967b2.png">
+  
   <ol>
     <li><p>Sistemde kayıtlı olan eğitmenlerin bulunduğu tablodur.</p></li>
     <li><p>Kayıt edilen eğitmenin mail adresi sistem tarafından otomatik olarak "isim.soyisim@edu.tr" şeklinde verilir.</p></li>
@@ -28,7 +26,6 @@
   <br>
   <br>
   <h2>Öğrenci Yönetimi</h2>
-  <img src="https://user-images.githubusercontent.com/78226423/154357664-31ec1ff3-06ce-47e5-96e1-2959e86154f6.png">
   <ol>
     <li><p>Sistemde kayıtlı olan öğrencilerin bulunduğu tablodur.</p></li>
     <li><p>Kayıt edilen her bir öğrenciye özel bir okul numarası atanır. Bu numaranın ilk 2 hanesi kayıt yılının son 2 hanesi, sonraki 2 hanesi kayıtlı olduğu fakültenin
@@ -40,7 +37,6 @@
   <br>
   <br>
   <h2>Ders Yönetimi</h2>
-  <img src="https://user-images.githubusercontent.com/78226423/154357970-d802bbf0-d238-472e-b775-72af337eb95a.png">
   <ol>
     <li><p>Ders tablosunda girilen ders adı veya ID numarasına göre arama yapar.</p></li>
     <li><p>Sistemde Kayıtlı olan derslerin bulunduğu tablodur.</p></li>
@@ -56,8 +52,6 @@
   <br>
   <br>
   <h2>Fakülte Yönetimi</h2>
-  <img src="https://user-images.githubusercontent.com/78226423/154359496-a62ccc8f-4024-4fb5-a85e-9dff662e616e.png">
-  <img src="https://user-images.githubusercontent.com/78226423/154359651-3f9f92b0-c7fa-4f40-92a5-88140163599f.png">
   <ol>
     <li><p>Sistemde Kayıtlı olan fakültelerin bulunduğu tablodur.</p></li>
     <li><p>Sisteme yeni bir fakülte ekleyebileceğiniz bölümdür.</p></li>
@@ -71,7 +65,6 @@
   <br>
   <br>
   <h2>Öğrenci Ekranı</h2>
-  <img src="https://user-images.githubusercontent.com/78226423/154361604-c4828e54-3868-41bb-a759-401039537360.png">
   <ol>
     <li><p>Öğrencinin sistemdeki kayıtlı bilgilerinin sunulduğu bölümdür.</p></li>
     <li><p>Öğrenciye atanmış olan derslerin bulunduğu tablodur.</p></li>
@@ -79,6 +72,4 @@
   <br>
   <br>
   <hr>
-  <h6 style="display:inline-block;">Dipnot: </h6>
-  <p style="display:inline-block;">Bu proje Nesne Yönelimli Programlama (OOP) Dersi projesi olarak hazırlanmıştır (Ocak 2022). Ayrıca ilk otomasyon projem olması dolayısıyla benim için ayrı bir önem arz etmektedir.</p>
 
