@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-<h3 align="center">Project Name: University Managment Project</h3>
+<h3 align="center">Project Name: University Managament Project</h3>
 <br/>
 <br/>
   
