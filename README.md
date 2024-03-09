@@ -24,7 +24,7 @@
 
 #### Facilitating the work of university administrators by performing operations such as adding and deleting faculties, departments and students through a single program.
 
-<h2 align="center">Our Reason for Choosing the Project </h2>
+<h2 align="center">Reason for Choosing the Project </h2>
 
 #### We decided to do this project because we thought it was a project where we could better understand Database and GUI, Constructor, inheritance processes and improve ourselves.
 <br/>
