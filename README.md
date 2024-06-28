@@ -1,23 +1,5 @@
 
-<h2 align="center">University Management System 3rd Semester Project</h2>
-
-
-<br/>
-<br/>
-<br/>
-<p align="center">
-<img width="200" src="https://github.com/ilyascant/University-Management-System-3rd-Semester-Project/blob/main/View/baibu.png" alt="BAIBU LOGO">
-</p>
-
-
-<h3 align="center">Abant Izzet Baysal University</h3>
-<h4 align="center">Object Oriented Programming Project</h4>
-<br/>
-<br/>
-
-<h3 align="center">Project Name: University Managament Project</h3>
-<br/>
-<br/>
+<br>
   
 <h2 align="center">Project Purpose </h2>
   
